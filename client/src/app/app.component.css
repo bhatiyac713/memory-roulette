@@ -1,0 +1,6 @@
+.split-screen {
+  width: 50%;
+}
+:host {
+  display: flex;
+}
